@@ -1,0 +1,14 @@
+C:\Users\vide.bultmark\Documents\slagsmålsspel\slagsmålsspel\bin\Debug\net9.0\slagsmålsspel.exe
+C:\Users\vide.bultmark\Documents\slagsmålsspel\slagsmålsspel\bin\Debug\net9.0\slagsmålsspel.deps.json
+C:\Users\vide.bultmark\Documents\slagsmålsspel\slagsmålsspel\bin\Debug\net9.0\slagsmålsspel.runtimeconfig.json
+C:\Users\vide.bultmark\Documents\slagsmålsspel\slagsmålsspel\bin\Debug\net9.0\slagsmålsspel.dll
+C:\Users\vide.bultmark\Documents\slagsmålsspel\slagsmålsspel\bin\Debug\net9.0\slagsmålsspel.pdb
+C:\Users\vide.bultmark\Documents\slagsmålsspel\slagsmålsspel\obj\Debug\net9.0\slagsmålsspel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vide.bultmark\Documents\slagsmålsspel\slagsmålsspel\obj\Debug\net9.0\slagsmålsspel.AssemblyInfoInputs.cache
+C:\Users\vide.bultmark\Documents\slagsmålsspel\slagsmålsspel\obj\Debug\net9.0\slagsmålsspel.AssemblyInfo.cs
+C:\Users\vide.bultmark\Documents\slagsmålsspel\slagsmålsspel\obj\Debug\net9.0\slagsmålsspel.csproj.CoreCompileInputs.cache
+C:\Users\vide.bultmark\Documents\slagsmålsspel\slagsmålsspel\obj\Debug\net9.0\slagsmålsspel.dll
+C:\Users\vide.bultmark\Documents\slagsmålsspel\slagsmålsspel\obj\Debug\net9.0\refint\slagsmålsspel.dll
+C:\Users\vide.bultmark\Documents\slagsmålsspel\slagsmålsspel\obj\Debug\net9.0\slagsmålsspel.pdb
+C:\Users\vide.bultmark\Documents\slagsmålsspel\slagsmålsspel\obj\Debug\net9.0\slagsmålsspel.genruntimeconfig.cache
+C:\Users\vide.bultmark\Documents\slagsmålsspel\slagsmålsspel\obj\Debug\net9.0\ref\slagsmålsspel.dll
