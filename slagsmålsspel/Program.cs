@@ -12,7 +12,6 @@ while (namnlangd > 16)
 
 // Console.WriteLine($"och vem ska den ökände {namn1} få äran att kämpa emot?");
 // string namn2 = Console.ReadLine();
-List<string> namnlista = new List<string> { "björn", "maximus" };
 string namn2 = "björn";
 
 // skapar hitpoints
