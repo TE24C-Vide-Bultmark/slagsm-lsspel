@@ -12,3 +12,4 @@ C:\Users\vide.bultmark\Documents\slagsmålsspel\slagsmålsspel\obj\Debug\net9.0\
 C:\Users\vide.bultmark\Documents\slagsmålsspel\slagsmålsspel\obj\Debug\net9.0\slagsmålsspel.pdb
 C:\Users\vide.bultmark\Documents\slagsmålsspel\slagsmålsspel\obj\Debug\net9.0\slagsmålsspel.genruntimeconfig.cache
 C:\Users\vide.bultmark\Documents\slagsmålsspel\slagsmålsspel\obj\Debug\net9.0\ref\slagsmålsspel.dll
+C:\Users\vide.bultmark\Documents\slagsmålsspel\slagsmålsspel\obj\Debug\net9.0\slagsmålsspel.sourcelink.json
